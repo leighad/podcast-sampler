@@ -1,6 +1,4 @@
-<div>
-  # This is Tankie the Bulldog
-</div>
+# This is Tankie the Bulldog
 
 <img src="tankie_soccer_2.JPG" width="550">
   
